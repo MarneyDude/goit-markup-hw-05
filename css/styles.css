@@ -582,7 +582,7 @@ header {
   transition: fill 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 
-.modal-input:focus + .name-icon {
+.modal-input:focus + .modal-icon {
   fill: #4d5ae5;
 }
 
@@ -611,7 +611,7 @@ header {
   margin-bottom: 24px;
 }
 
-input[type="checkbox"]:checked + span {
+input[type="checkbox"]:checked + label {
   background-color: #404bbf;
   border: none;
   fill: #f4f4fd;
