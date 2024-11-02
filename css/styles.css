@@ -611,7 +611,7 @@ header {
   margin-bottom: 24px;
 }
 
-input[type="checkbox"]:checked + span {
+input[type="checkbox"]:checked + label .checkbox-span {
   background-color: #404bbf;
   border: none;
   fill: #f4f4fd;
