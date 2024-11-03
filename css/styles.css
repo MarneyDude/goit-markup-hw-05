@@ -80,6 +80,7 @@ header {
   line-height: 1.5;
   letter-spacing: 0.02em;
   padding: 24px 0;
+  color: #2e2f42;
 }
 
 .header-link:hover,
@@ -323,10 +324,6 @@ header {
   padding: 32px 16px;
   border: 1px solid #e7e9fc;
   border-top: none;
-}
-.portfolio-subtitle,
-.portfolio-text {
-  text-align: center;
 }
 
 .portfolio-item:hover .portfolio-hidden-text {
